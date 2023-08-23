@@ -1,0 +1,6 @@
+{{#user}}
+this is a normal text for showing demo :-)
+Name:Shiva shankar Nali
+Skills: core java,Html,css,js,jquery.
+email:avihsraknahslian@gmail.com
+{{/user}}
